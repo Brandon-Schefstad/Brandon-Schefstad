@@ -1,5 +1,5 @@
 <h1 align="center">Brandon Schefstad</h1>
-<h3 align="center">A full stack engineer with an intentional and collaborative approach to my work. I love contributing to open source work and connecting with other engineers</h3>
+<h3 align="center">A full stack engineer with an intentional and collaborative approach to my work. I love contributing to open source projects and connecting with other engineers</h3>
 
 
 - I’m currently working on [ESE-At-A-Glance](https://ese-at-a-glance.netlify.app/)
