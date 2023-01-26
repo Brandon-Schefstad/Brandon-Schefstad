@@ -18,9 +18,9 @@
 
 - ⚡ Fun fact: The world record for a mouth full of marshmallows is 44, *but I've gotten close*.
 
-## Project Highlight: ESE-At-A-Glance
+<!-- ## Project Highlight: ESE-At-A-Glance
 *A full stack student tracker*
-
+ -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
