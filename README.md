@@ -16,7 +16,11 @@
 
 - 📄 Lookin to hire? [https://brandon-schefstad.netlify.app/assets/Brandon%20Schefstad%20-%20Resume.pdf](https://brandon-schefstad.netlify.app/assets/Brandon%20Schefstad%20-%20Resume.pdf)
 
-- ⚡ Fun fact: The world record for a mouth full of marshmallows is 44, but I've gotten close.
+- ⚡ Fun fact: The world record for a mouth full of marshmallows is 44, *but I've gotten close*.
+
+## Project Highlight: ESE-At-A-Glance
+*A full stack student tracker*
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
