@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bschefstad@gmail.com**
 
-- 📄 Lookin to hire? [https://brandon-schefstad.netlify.app/assets/Brandon%20Schefstad%20-%20Resume.pdf](https://brandon-schefstad.netlify.app/assets/Brandon%20Schefstad%20-%20Resume.pdf)
+- 📄 Lookin to hire? [See My Resume!](https://brandon-schefstad.netlify.app/assets/Brandon%20Schefstad%20-%20Resume.pdf)
 
 - ⚡ Fun fact: The world record for a mouth full of marshmallows is 44, *but I've gotten close*.
 
