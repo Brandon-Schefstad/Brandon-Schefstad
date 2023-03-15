@@ -4,11 +4,11 @@
 
 - I’m currently working on [ESE-At-A-Glance](https://ese-at-a-glance.netlify.app/)
 
-- I’m currently learning **Python and NextJS**
+- I’m currently learning **AWS (CloudFormation, EC2, S3, ECS) Web Accessibility**
 
-- All of my projects are available at [brandon-schefstad.netlify.app](brandon-schefstad.netlify.app)
+- All of my projects are available at [brandon-schefstad.netlify.app.](https://brandon-schefstad.netlify.app)
 
-- I regularly write articles on [https://hashnode.com/@bschefstad](https://hashnode.com/@bschefstad)
+- I regularly write articles on [https://hashnode.com/@bschefstad.](https://hashnode.com/@bschefstad)
 
 - 💬 Ask me about **my two cats, philosophy, or fun facts!**
 
