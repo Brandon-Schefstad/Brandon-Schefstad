@@ -2,13 +2,13 @@
 <h3 align="center">A full stack engineer with an intentional and collaborative approach to my work. I love contributing to open source projects and connecting with other engineers</h3>
 
 
-- I’m currently working on [ESE-At-A-Glance](https://ese-at-a-glance.netlify.app/)
+- I’m currently working on [Blackstaff Spell Emporium.](https://blackstaff.vercel.app/)
 
-- I’m currently learning **AWS (CloudFormation, EC2, S3, ECS) and Web Accessibility**
+- I’m currently learning **Web Accessibility and NextJS**
 
 - All of my projects are available at [brandon-schefstad.netlify.app.](https://brandon-schefstad.netlify.app)
 
-- I regularly write articles on [https://hashnode.com/@bschefstad.](https://hashnode.com/@bschefstad)
+- I sometimes write articles on [https://hashnode.com/@bschefstad.](https://hashnode.com/@bschefstad)
 
 - 💬 Ask me about **my two cats, philosophy, or fun facts!**
 
